@@ -5,8 +5,7 @@
  - CSIC
  
 # Data Organization 
- - Json file or txt file that has paths to the datasets
- Datasets are located in <path/to/datasets>....
+Graph of data storage:
 
 ```bash 
 ├── README.md
