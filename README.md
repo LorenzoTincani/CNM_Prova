@@ -19,7 +19,11 @@
 │   ├── definitive_DEFINITIVE.csv
 │   ├── march8.csv
 │   ├── noise_NEW2.dat
+├── IMGS
+     --- reconstructed_electron*.png
+     --- .....
 │   └── untitled2.csv
+|   
 └── docs
     ├── aaa.txt
     ├── meeting_notes_also_has_data.txt
