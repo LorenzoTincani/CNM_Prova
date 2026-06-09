@@ -1,0 +1,10 @@
+Meeting with Prof. Garcia - discussed layout
+TODO: rerun sim with corner models
+
+Leakage current summary (DO NOT DELETE):
+corner  temp  Ileak
+tt      27    1.2nA
+ff      -40   0.3nA
+ss      125   18.7nA
+fs      27    1.4nA
+sf      27    1.1nA

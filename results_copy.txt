@@ -1,0 +1,8 @@
+Threshold voltage measurements
+Device: nMOS
+W/L = 10/0.18
+
+Vth = 0.42V
+Ioff = 1.2nA
+Ion = 580uA
+SS = 68 mV/dec

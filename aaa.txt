@@ -1,0 +1,5 @@
+dont forget:
+- spice netlist uses 180nm PDK
+- corners: tt ff ss fs sf
+- supply: 1.8V nominal
+- monte carlo: 500 runs

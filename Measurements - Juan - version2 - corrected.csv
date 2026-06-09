@@ -1,0 +1,8 @@
+device,parameter,value,unit,condition
+nMOS_01,Vth,0.42,V,Vds=50mV
+nMOS_01,DIBL,55,mV/V,
+nMOS_01,Ioff,1.2,nA,Vgs=0
+nMOS_01,Ion,580,uA,Vgs=Vds=1.8V
+pMOS_01,Vth,-0.38,V,Vds=-50mV
+pMOS_01,Ioff,0.9,nA,Vgs=0
+pMOS_01,Ion,310,uA,Vgs=Vds=-1.8V
